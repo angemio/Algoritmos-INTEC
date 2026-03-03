@@ -1,0 +1,5 @@
+# Ignorar todos los archivos ejecutables compilados
+*.exe
+
+# Ignorar archivos temporales de VS Code (Code Runner)
+tempCodeRunnerFile.cpp
