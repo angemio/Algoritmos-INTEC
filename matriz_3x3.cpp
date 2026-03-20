@@ -5,6 +5,8 @@
  * en una matriz 3x3 tal que la suma de sus filas, columnas y diagonales sea exactamente 15.
  * Complejidad de Tiempo: O(9!) en el peor de los casos (fuerza bruta), pero optimizado 
  * drásticamente mediante poda (pruning) con la función checkParcial.
+ * 
+ * Angel De la Rosa
  */
 
 #include <iostream>
